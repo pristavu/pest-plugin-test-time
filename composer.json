@@ -1,11 +1,11 @@
 {
-    "name": "spatie/pest-plugin-test-time",
+    "name": "pristavu/pest-plugin-test-time",
     "description": "A Pest plugin to  control the flow of time",
     "keywords": [
         "spatie",
         "pest-plugin-test-time"
     ],
-    "homepage": "https://github.com/spatie/pest-plugin-test-time",
+    "homepage": "https://github.com/pristavu/pest-plugin-test-time",
     "license": "MIT",
     "authors": [
         {
